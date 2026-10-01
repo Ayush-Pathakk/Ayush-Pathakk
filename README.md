@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ayush-Pathakk/Ayush-Pathakk/refs/heads/main/Mumbai%20Area%20Guide%20%E2%80%93%20Mira%20Road%20vs%20Panvel%20vs%20Andheri%20Explained.jfif">
+<img src="https://raw.githubusercontent.com/Ayush-Pathakk/Ayush-Pathakk/refs/heads/main/banner%202026-10-01%20121817.png">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Building+production-oriented+AI+systems;RAG+pipelines+%7C+LLM+apps+%7C+Agents;Turning+messy+data+into+decisions" alt="Typing SVG" />
 
@@ -14,7 +14,7 @@
 
 ## About Me
 
-**AI Engineer** focused on building **production-oriented AI systems**, RAG pipelines, and LLM applications. I turn messy data into decisions — from retrieval and reranking to cost tracking and deployment.
+**AI Engineer** focused on saving time **production-oriented AI systems**, RAG pipelines, and LLM applications. I turn messy data into decisions — from retrieval and reranking to cost tracking and deployment.
 
 ---
 
