@@ -14,8 +14,14 @@
 
 ## About Me
 
-**AI Engineer** focused on saving time **production-oriented AI systems**, RAG pipelines, and LLM applications. I turn messy data into decisions — from retrieval and reranking to cost tracking and deployment.
+# Building AI systems that save time and simplify work.
 
+-   Automating workflows to reduce my **manual effort by 35% **.
+-   Building RAG & LLM systems to cut **information retrieval time from 17 sec to 8.6 sec **.
+-   Solving real-world problems by reducing **8+ manual steps to 2-3 steps**.
+-   Engineering for measurable impact: **time saved, latency reduced, accuracy improved, and processes automated**.
+-   Building production-grade AI systems designed to **save 8+ hours/week and make people faster**.
+- 
 ---
 
 ## Featured Projects
