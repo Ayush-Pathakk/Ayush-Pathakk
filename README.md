@@ -1,24 +1,168 @@
-# 💫 About Me:
-🎯 I’m currently working on<br>A portfolio of Machine Learning + Generative AI projects using Python & React, and preparing for & GSoC.<br><br>🤝 I’m looking to collaborate on<br>Open Source AI tools, impactful ML projects, or any GenAI-based web apps.<br><br>🙌 I’m looking for help with<br>Understanding advanced ML model deployment, contributing to Google Summer of Code, and winning global hackathons.<br><br>🌱 I’m currently learning<br>Generative AI, ReactJS, Google Cloud ML, and building strong DSA skills.<br><br>💬 Ask me about<br>Python tricks, or how to start creating short-form content even as a student.<br><br>⚡ Fun fact<br>I can anchor an event, hit headshots in Free Fire, and debug code—all in one day.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:3B82F6&height=180&section=header&text=Ayush%20Pathak&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20RAG%20%26%20LLM%20Systems%20Builder&descAlignY=58&descSize=16" width="100%"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ayushh__pathak_/#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayush-pathak-057145323/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Ayushh_pathak_/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Ayushh_pathak_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayush.teva@gmail.com) 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Building+production-oriented+AI+systems;RAG+pipelines+%7C+LLM+apps+%7C+Agents;Turning+messy+data+into+decisions" alt="Typing SVG" />
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ayush-Pathakk&theme=panda&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ayush-Pathakk&theme=panda&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Pathakk&theme=panda&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-pathak-057145323)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Ayushh_pathak_)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ayush.teva@gmail.com)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ayush-Pathakk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ayush-Pathakk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+**AI Engineer** focused on building **production-oriented AI systems**, RAG pipelines, and LLM applications. I turn messy data into decisions — from retrieval and reranking to cost tracking and deployment.
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎓 RAG Study Agent for RGPV
+AI study assistant that retrieves relevant RGPV material and generates contextual, exam-oriented answers.
+
+**Stack:** Python, LangChain, FAISS, Sentence Transformers, LLMs
+
+</td>
+<td width="50%">
+
+### ⚙️ Production-Grade RAG Pipeline
+End-to-end RAG app with retrieval, embeddings, reranking, and a user-facing interface.
+
+**Stack:** Python, LangChain, BGE, Cross-Encoder, Vector DB, Streamlit
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📰 Signal Digest
+Reads 100+ tech articles daily, emails you the 10 that matter. **Saves ~45 min/day.**
+
+**Stack:** Python, Groq, GitHub Actions
+
+</td>
+<td width="50%">
+
+### 💰 LLM-Cost-Ingestion-System
+Tracks and bills LLM API usage per client in real time — cost per request, budget limits, auto-invoices.
+
+**Stack:** Python, FastAPI, PostgreSQL
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
+
+**AI / ML**
+<br>
+`RAG` `LLMs` `Embeddings` `Semantic Search` `Reranking`
+
+**Frameworks**
+<br>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,langchain" />
+<br>
+`LangGraph` `LlamaIndex` `Streamlit`
+
+**Databases & Vector Stores**
+<br>
+<img src="https://skillicons.dev/icons?i=postgres" />
+<br>
+`FAISS` `Chroma` `Pinecone`
+
+**Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode" />
+
+**LLM / AI Platforms**
+<br>
+`Groq` `Gemini` `Hugging Face` `OpenAI APIs`
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ayush-Pathakk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Pathakk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8" />
+</div>
+
+<div align="center">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-Pathakk&custom_title=Contribution%20Graph&bg_color=0D1117&color=3B82F6&line=3B82F6&point=C9D1D9&area=true&hide_border=true" />
+</div>
+
+---
+
+## Current Focus
+
+```javascript
+const ayush = {
+    role: "AI Engineer",
+    focus: ["Production-grade RAG", "Agentic systems", "LLM Evaluation", "Observability", "Deployment"],
+    learning: ["LLM evals", "Tracing & monitoring", "Scaling AI systems"],
+    goal: "AI / Software Engineering internships & placements",
+    interests: ["AI products", "Startups", "VC", "Copywriting"]
+};
+```
+
+---
+
+## Beyond Code
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<b>✍️ Copywriting</b><br>
+Words that convert
+</td>
+<td align="center" width="33%">
+<b>🎤 Public Speaking</b><br>
+Stand-up & storytelling
+</td>
+<td align="center" width="33%">
+<b>🚀 AI & Startups</b><br>
+How products ship
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+Open to AI/Software Engineering internships, collabs, and building cool things.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-pathak-057145323)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Ayushh_pathak_)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Ayush-Pathakk&label=Profile%20Views&color=3B82F6&style=flat-square" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:1E3A8A&height=120&section=footer" width="100%"/>
+```
