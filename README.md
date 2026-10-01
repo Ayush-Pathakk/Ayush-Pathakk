@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:3B82F6&height=180&section=header&text=Ayush%20Pathak&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20RAG%20%26%20LLM%20Systems%20Builder&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://raw.githubusercontent.com/Ayush-Pathakk/Ayush-Pathakk/refs/heads/main/Mumbai%20Area%20Guide%20%E2%80%93%20Mira%20Road%20vs%20Panvel%20vs%20Andheri%20Explained.jfif">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Building+production-oriented+AI+systems;RAG+pipelines+%7C+LLM+apps+%7C+Agents;Turning+messy+data+into+decisions" alt="Typing SVG" />
 
